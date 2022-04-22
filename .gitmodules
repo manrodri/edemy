@@ -1,0 +1,9 @@
+[submodule "edemy_infra"]
+	path = edemy_infra
+	url = git@github.com:manrodri/edemy_infra.git
+[submodule "edemy_server"]
+	path = edemy_server
+	url = git@github.com:manrodri/edemy_server.git
+[submodule "edemy_client"]
+	path = edemy_client
+	url = git@github.com:manrodri/edemy_client.git
